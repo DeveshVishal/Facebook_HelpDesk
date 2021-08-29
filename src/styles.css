@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(108, 40, 216);
+  color: rgb(12, 1, 1);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(226, 211, 211);
+}
+
+input {
+  width: 40%;
+  padding: 0.6em;
+}
+
+button {
+  padding: 0.5em;
+  width: 20%;
+  letter-spacing: 0.1rm;
+  border: none;
+  margin-top: 0.1em;
+  background-color: rgb(166, 140, 207);
+}
